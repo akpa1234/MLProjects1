@@ -2,5 +2,10 @@ pandas
 numpy
 seaborn
 dataclasses
+matplotlib
 scikit-learn
+catboost
+xgboost
+dill
+Flask
 #-e .
